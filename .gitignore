@@ -1,4 +1,4 @@
 npm-debug.log
-*.iml
-modules.xml
-vcs.xml
+.idea
+node_modules
+lib
